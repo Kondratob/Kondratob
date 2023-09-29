@@ -24,8 +24,10 @@ Novice Data Analyst, I am studying on the Yandex Practicum platform, looking for
 
 ---
 
-### educational projects:
+### Educational projects:
 
----
+- 💻 - [Yandex Practicum](./Kondratob/Yandex-Praktikum)
+
+**---**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kondratob)
