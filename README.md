@@ -12,7 +12,7 @@ I am studying on the Yandex Practicum platform, I am looking for a job
 </p>
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Yandex&logoColor=white)](mailto:kondratob1996@yandex.ru)
 
 ---
 
