@@ -26,7 +26,7 @@ Novice Data Analyst, I am studying on the Yandex Practicum platform, looking for
 
 ### Educational projects:
 
-- 💻 - [Yandex Practicum](https://github.com/Kondratob/Yandex-Praktikum)
+- 💻 - [Yandex Practicum](/Kondratob/Yandex-Praktikum)
 
 ---
 
