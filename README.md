@@ -6,9 +6,15 @@
 
 Novice Data Analyst, I am studying on the Yandex Practicum platform, looking for a job
 
-### tools and skills:
+### Tools/Skills:
 
-Python Pandas NumPy Matplotlib SQL Seaborn Scikit-learn 
+- Python
+- Pandas
+- -NumPy
+- Matplotlib
+- SQL
+- Seaborn
+- Scikit-learn 
 
 ### Contacts:
 
