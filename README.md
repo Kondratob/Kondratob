@@ -9,7 +9,7 @@ I am studying on the Yandex Practicum platform, I am looking for a job
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-KondratovVladislav-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kvvbl)
 
 ---
 
@@ -19,7 +19,7 @@ I am studying on the Yandex Practicum platform, I am looking for a job
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kondratob&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
