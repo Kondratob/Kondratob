@@ -10,7 +10,7 @@ Novice Data Analyst, I am studying on the Yandex Practicum platform, looking for
 
 - Python
 - Pandas
-- -NumPy
+- NumPy
 - Matplotlib
 - SQL
 - Seaborn
