@@ -23,7 +23,9 @@ Novice Data Analyst, I am studying on the Yandex Practicum platform, looking for
 [![Telegram Badge](https://img.shields.io/badge/-Vladislav-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kvvbl)
 
 ---
-educational projects
+
+### educational projects:
+
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kondratob)
